@@ -1,4 +1,4 @@
 # NewsGrid-Site
-Sample website
+Sports news website
 
-https://adorable-brigadeiros-26cc9b.netlify.app/
+https://nicksnewsgrid.netlify.app/
